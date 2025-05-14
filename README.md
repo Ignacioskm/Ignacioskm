@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hi there! I'm a passionate learner diving into the world of technology.<br><br>- 🌍 I currently work while pursuing my second degree.<br>- 🎓 I’m currently studying Computer Engineering and I’m truly passionate about learning.<br>- 🤝 I’m looking to collaborate on beginner-friendly tech projects where I can grow and contribute.<br>- 🧠 I’m looking for help with building real-world experience in software development and understanding industry practices.<br>- 📚 I’m currently learning Python, algorithms, and front-end development with tools like HTML, CSS, and JavaScript.<br>- ❓ Ask me about my journey into tech, studying while working, or tools for learning programming effectively.<br>- 🏃 Fun fact: I love running in my free time — it helps me clear my mind and stay motivated!<br><br>💡 I'm excited about the future and looking forward to building a career in the tech industry. Let’s connect and learn together!<br>
+Hola soy un tipazo!
 
 
 ## 🌐 Socials:
